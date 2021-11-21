@@ -1,5 +1,5 @@
 {
-  "name": "@example/framework-vue",
+  "name": "@example/starter",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "preview": "astro preview"
   },
   "devDependencies": {
+    "@astrojs/renderer-vue": "^0.2.0",
     "astro": "^0.21.0"
   }
 }
